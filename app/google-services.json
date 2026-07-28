@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902738140577",
+    "project_id": "hydrotrack-3151c",
+    "storage_bucket": "hydrotrack-3151c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902738140577:android:36788820a57173ae80bfe0",
+        "android_client_info": {
+          "package_name": "com.arunkmr.hydrotrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWWwSOphjW4KbljBrLnoY-SZP10pGX_1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

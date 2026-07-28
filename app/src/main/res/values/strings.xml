@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HydroTrack</string>
+    <string name="refill_button">+1 Refill</string>
+    <string name="today_progress">Today\'s Progress</string>
+    <string name="goal_reached">Goal reached! Great job staying hydrated \uD83D\uDCA7</string>
+    <string name="keep_going">Still time for one more \u2014 you\'ve got this!</string>
+    <string name="bottles_logged">%d bottles logged</string>
+    <string name="ml_of_target">%1$d ml of %2$d ml</string>
+    <string name="onboarding_title">Let\'s get started</string>
+    <string name="your_weight">Your weight (kg)</string>
+    <string name="bottle_size">Bottle size (ml)</string>
+    <string name="daily_target">Daily target</string>
+    <string name="set_custom_target">Set custom target</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="symptom_check_in">How are you feeling?</string>
+    <string name="felt_dizzy">Felt dizzy</string>
+    <string name="dry_skin">Dry skin</string>
+    <string name="export_data">Export for doctor</string>
+    <string name="reminder_logged">Logged</string>
+    <string name="reminder_snooze">Snooze 15 min</string>
+</resources>

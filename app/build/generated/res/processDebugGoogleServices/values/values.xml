@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">902738140577</string>
+    <string name="google_api_key" translatable="false">AIzaSyCWWwSOphjW4KbljBrLnoY-SZP10pGX_1I</string>
+    <string name="google_app_id" translatable="false">1:902738140577:android:36788820a57173ae80bfe0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCWWwSOphjW4KbljBrLnoY-SZP10pGX_1I</string>
+    <string name="google_storage_bucket" translatable="false">hydrotrack-3151c.firebasestorage.app</string>
+    <string name="project_id" translatable="false">hydrotrack-3151c</string>
+</resources>
