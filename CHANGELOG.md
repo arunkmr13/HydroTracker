@@ -8,7 +8,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 ### Added
 - CI (unit tests, debug build, lint) and a tag-driven signed release workflow.
-- Issue and pull request templates, Dependabot, `LICENSE`, `SECURITY.md`, `CONTRIBUTING.md`,
+- Professional README with badges; issue and pull request templates, Dependabot, `LICENSE`, `SECURITY.md`, `CONTRIBUTING.md`,
   `DEVELOPMENT.md`, `.editorconfig`.
 
 ### Removed
