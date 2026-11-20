@@ -1,0 +1,53 @@
+name: Bug report
+description: Something isn't working as expected
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you saw, and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open Today
+        2. Tap ...
+        3. See ...
+    validations:
+      required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: App version
+      description: Settings → About, or the release you installed.
+      placeholder: v2.0.0
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and Android version
+      placeholder: Pixel 8, Android 16
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Logging / Today
+        - History / Insights
+        - Reminders / Notifications
+        - Widget / Quick Settings tile
+        - Health Connect
+        - Settings / Onboarding
+        - Other
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or logs
+      description: Please remove anything personal before attaching.
