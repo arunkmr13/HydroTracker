@@ -36,10 +36,8 @@ jobs:
       - name: Assemble debug APK
         run: ./gradlew assembleDebug --stacktrace
 
-      # Non-blocking until the v2 rebuild lands; then remove continue-on-error.
       - name: Android lint
         run: ./gradlew lintDebug
-        continue-on-error: true
 
       - name: Upload reports
         if: always()
